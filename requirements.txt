@@ -1,0 +1,43 @@
+# =====================
+# Core dependencies
+# =====================
+numpy
+pandas
+scikit-learn
+scipy
+
+# =====================
+# Deep Learning
+# =====================
+torch
+torchvision
+torchaudio
+tensorflow   # optional if you want to try TensorFlow instead of PyTorch
+
+# =====================
+# Visualization
+# =====================
+matplotlib
+seaborn
+plotly
+
+# =====================
+# Experiment tracking & utilities
+# =====================
+tqdm
+
+# =====================
+# Web demo (for user interface)
+# =====================
+streamlit
+
+# =====================
+# Explainability
+# =====================
+captum     # PyTorch model interpretability
+shap       # SHAP values
+
+# =====================
+# Testing
+# =====================
+pytest
