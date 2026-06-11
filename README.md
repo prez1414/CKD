@@ -1,5 +1,5 @@
 Team Name: MediScan minds 
-Team members name: PRERNA GHORPADE , SHRAVANI CHINCHORE , YUKTA SHIVADEY , SAMPADA KULKARNI 
+Team members name: PRERNA GHORPADE , SHRAVANI CHINCHORE 
 Project name:
  AI-Based System for Tracking and Monitoring Kidney Disease Progression Using Medical Imaging
 Project abstract:Chronic Kidney Disease (CKD) has become a major global health concern, often progressing silently until reaching advanced stages. Early detection and continuous monitoring are crucial for improving patient outcomes, yet traditional diagnostic methods rely heavily on manual interpretation of medical images and clinical data. This project proposes an AI-Based System for Tracking and Monitoring Kidney Disease Progression Using Medical Imaging, designed to assist clinicians in identifying disease stages and changes over time with high accuracy.
